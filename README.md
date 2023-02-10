@@ -15,5 +15,9 @@ Deploy it and assign a subdomain.
 - [x] Vite
 - [x] Custom Title
 - [ ] Analytics
-- [ ] Netlify Button
+- [x] Netlify Button
 - [ ] Vercel Button
+
+## Auto Deploy
+
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lacrypta/redirect)
