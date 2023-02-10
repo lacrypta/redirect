@@ -13,7 +13,7 @@ Deploy it and assign a subdomain.
 ### Features
 
 - [x] Vite
-- [ ] Custom Title
+- [x] Custom Title
 - [ ] Analytics
 - [ ] Netlify Button
 - [ ] Vercel Button
