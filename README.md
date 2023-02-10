@@ -5,6 +5,7 @@ Just fork it.
 Copy **.env.sample** into **.env** file and set your destination URL.
 
 ```bash
+VITE_TITLE="La Crypta - Redirecting..."
 VITE_DESTINATION="http://lacrypta.com.ar"
 ```
 
