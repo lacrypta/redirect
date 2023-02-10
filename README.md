@@ -7,6 +7,7 @@ Copy **.env.sample** into **.env** file and set your destination URL.
 ```bash
 VITE_TITLE="La Crypta - Redirecting..."
 VITE_DESTINATION="http://lacrypta.com.ar"
+VITE_GOOGLE_ANALYTICS="G-0000000000"
 ```
 
 Deploy it and assign a subdomain.
@@ -15,7 +16,7 @@ Deploy it and assign a subdomain.
 
 - [x] Vite
 - [x] Custom Title
-- [ ] Analytics
+- [x] Analytics
 - [x] Netlify Button
 - [x] Vercel Button
 
