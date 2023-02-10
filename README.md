@@ -19,6 +19,7 @@ Deploy it and assign a subdomain.
 - [x] Analytics
 - [x] Netlify Button
 - [x] Vercel Button
+- [ ] Multiple links
 
 ## Auto Deploy on Netlify or Vercel
 
