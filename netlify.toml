@@ -1,3 +1,3 @@
 [template.environment]
-  VITE_TITLE = "Your title..."
-  VITE_DESTINATION = "https://lacrypta.com.ar"
+  VITE_TITLE = "Page Title"
+  VITE_DESTINATION = "Destination URL like "https://lacrypta.com.ar)"
