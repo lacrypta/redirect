@@ -25,4 +25,4 @@ Deploy it and assign a subdomain.
 
 or
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flacrypta%2Fredirect&env=VITE_TITLE,VITE_DESTINATION&envDescription=HTML%20Title%20while%20loading%20and%20Destination%20URL&project-name=redirect&repository-name=redirect)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flacrypta%2Fredirect&env=VITE_TITLE,VITE_DESTINATION,VITE_GOOGLE_ANALYTICS&envDescription=HTML%20Title%20while%20loading%20and%20Destination%20URL&project-name=redirect&repository-name=redirect)
