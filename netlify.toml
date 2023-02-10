@@ -1,3 +1,4 @@
 [template.environment]
   VITE_TITLE = "Page Title"
   VITE_DESTINATION = "Destination URL like (https://lacrypta.com.ar)"
+  VITE_GOOGLE_ANALYTICS = "Google analytics tag like (G-0123456789)"
