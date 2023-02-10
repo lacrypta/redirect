@@ -8,7 +8,7 @@ export default ({ mode }) => {
   return defineConfig({
     plugins: [
       {
-        name: "html-transform",
+        name: "title-transform",
         transformIndexHtml(html) {
           return html.replace(
             /<title>(.*?)<\/title>/,
