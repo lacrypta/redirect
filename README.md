@@ -1,4 +1,8 @@
-## Lightweight Redirect
+<p align="center">
+<img src="public/logo.png" width="60%" title="La Crypta Tickets">
+</p>
+
+## Instructions
 
 Just fork it.
 
