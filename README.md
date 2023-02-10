@@ -1,5 +1,5 @@
 <p align="center">
-<img src="public/logo.png" width="60%" title="La Crypta Tickets">
+<img src="public/logo.png" width="60%" title="La Crypta Redirect">
 </p>
 
 ## Instructions
