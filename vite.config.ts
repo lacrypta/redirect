@@ -16,6 +16,15 @@ export default ({ mode }) => {
           );
         },
       },
+      {
+        name: "google-analytics",
+        transformIndexHtml(html) {
+          return html.replace(
+            /%ANALYTICS_TAG%/g,
+            process.env.VITE_GOOGLE_ANALYTICS as string
+          );
+        },
+      },
     ],
   });
 };
