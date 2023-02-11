@@ -12,6 +12,7 @@ Setup in a couple of minutes a link tracking system with **Google Analytics**.
 - [x] Netlify Button
 - [x] Vercel Button
 - [x] Subdomains
+- [ ] Loading animation
 
 ---
 
